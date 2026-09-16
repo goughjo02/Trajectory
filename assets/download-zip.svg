@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="48" viewBox="0 0 224 48" role="img" aria-labelledby="title">
+  <title id="title">Download Trajectory ZIP</title>
+  <rect width="224" height="48" rx="8" fill="#10283f"/>
+  <g fill="none" stroke="#ffcf89" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M27 13v15m-6-6 6 6 6-6M18 30v5h18v-5"/>
+  </g>
+  <text x="49" y="30" fill="#fff5e2" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Download ZIP</text>
+</svg>

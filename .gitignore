@@ -1,0 +1,13 @@
+# Optional private source material; career foundations are intentionally trackable.
+/private/*
+!/private/README.md
+/opportunities/*/private/*
+!/opportunities/*/private/README.md
+
+# Local credentials and machine noise
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+*.pyc
